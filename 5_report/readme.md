@@ -51,17 +51,9 @@ The analaog value from pot is converted to digital depending on the given limits
 The output from this ADC in terms of PWM is shown in the oscilloscope.
 The data in terms of temperature is transmitted with the help of USART and shown in the Serial Monitor. 
 
-# Block Diagram
-![image](https://user-images.githubusercontent.com/101269692/164626073-6c6f520e-dde4-4897-a78d-e99f0d7e1e50.png)
 
 
-# Control Flow and Flow Charts
- * Control Flow 
-  
-![image](https://user-images.githubusercontent.com/101269692/164626241-a977cede-93c8-43e6-997e-2cf0436971f1.png)
-* Flow Chart
 
-![image](https://user-images.githubusercontent.com/101269692/164626343-ff402a7b-5d9b-4b42-8ab5-ca01d7d83431.png)
  
   
 # Specifications
@@ -109,10 +101,6 @@ The programming for Atmega328 implemented using basic C programming languge.Deve
 * The microcontroller chip.
 * The sensors interfacing with the microcontroller.
 
-# Circuit Diagram PNG
-
- ![image](https://user-images.githubusercontent.com/101269692/164627038-b2de86c1-d61f-4ce3-969a-4de7169ee305.png)
-
 # SWOT Analysis
 
 ## Strengths
@@ -135,23 +123,7 @@ The programming for Atmega328 implemented using basic C programming languge.Deve
  * WHY For being healthy.
  * HOW Operates by modifying the temperature.
 
-# Output
 
-# Activity_1
-
-![133891594-a47f7ed6-0113-4667-b12c-3ee35920897d](https://user-images.githubusercontent.com/75964648/157164127-9a85e27a-cad1-4b76-b34b-9f0ff13147ac.png)
-
-# Activity_2
-
-![133891642-be8f1025-4336-4914-a7c3-f7c9f35c10a2](https://user-images.githubusercontent.com/75964648/157164270-fe8411f3-2812-49b6-ae39-bdb6ef3a4958.png)
-
-# Activity_3
-
-![133891647-704d4ee0-4721-4026-bc5b-801c2564b7ca](https://user-images.githubusercontent.com/75964648/157164334-93eb2a24-33d0-4a13-af67-e907b23360c9.png)
-
-# Totalactivity
-
-![133891654-d555c14f-5161-4cb5-8bd9-ba9fd06d2f15](https://user-images.githubusercontent.com/75964648/157164423-8b80bc80-cc52-4970-bfe6-179d7655e3c5.png)
 
 
 
